@@ -1,6 +1,6 @@
 # 2021-22-Term1-Fairness-in-Socio-technical-Systems
 
-This repository is for archiving course materials for Fairness in Socio-technial Systems (2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
+This repository is for archiving course materials for IS472: Fairness in Socio-technial Systems (2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
 
 | Week | Description | Slides | Group activity |
 | --- | --- | :---: | --- |
