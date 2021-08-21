@@ -4,7 +4,7 @@ This repository is for archiving course materials for Fairness in Socio-technial
 
 | Week | Description | Slides | Group activity |
 | --- | --- | --- | --- |
-| **Week 1** | Introduction | | 1. [Google Colab - Twitter's image cropping algorithm](https://github.com/haewoon/lab-image-crop-analysis) <br/> 2. Algorithmic curations in your favorite apps |
+| **Week 1** | Introduction | | 1. [Colab - Twitter's image cropping algorithm](https://github.com/haewoon/lab-image-crop-analysis) <br/> 2. Algorithmic curations in your favorite apps |
 | **Week 2** | Case studies of measuring fairness and biase (I) | | |
 | **Week 3** | Case studies of measuring fairness and biase (II) | | |
 | **Week 4** | Auditing algorithms | | |
