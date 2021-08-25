@@ -2,7 +2,7 @@
 
 This repository is for archiving course materials for IS472: Fairness in Socio-technial Systems (2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
 
-Instructor: KWAK Haewoon
+Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
 
 | Week | Description | Slides | Group activity |
 | --- | --- | :---: | --- |
