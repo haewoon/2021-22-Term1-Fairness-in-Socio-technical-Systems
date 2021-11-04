@@ -14,7 +14,7 @@ Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
 | **W6** | Project consultation | | |
 | **W7** | Project idea pitching | | |
 | **W8** | Recess week | | |
-| **W9** | Bias in data and machine learning models (II) | | 1. Inappropriate synsets in ImageNet<br/>2. Bias in word embeddings |
+| **W9** | Bias in data and machine learning models (II) <br/><img src="https://github.com/haewoon/2021-22-Term1-Fairness-in-Socio-technical-Systems/blob/main/Week%209%20-%20Bias%20in%20data%20and%20machine%20learning%20models%20(II).png?raw=true" width="480"> | [PDF](https://github.com/haewoon/2021-22-Term1-Fairness-in-Socio-technical-Systems/raw/main/Week%205%20-%20Bias%20in%20data%20and%20machine%20learning%20models%20(II).pdf) | 1. Inappropriate synsets in ImageNet<br/>2. Bias in word embeddings |
 | **W10** | Interpretability of algorithmic systems | | |
 | **W11** | Fairness mechanisms | | |
 | **W12** | HCI perspective of fairness | | | 
