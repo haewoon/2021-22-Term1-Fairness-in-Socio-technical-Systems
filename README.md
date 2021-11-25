@@ -4,6 +4,7 @@ This repository is for archiving course materials for IS472: Fairness in Socio-t
 
 Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
 
+# Topics to be Covered
 | Week | Description | Slides | Group activity |
 | --- | --- | :---: | --- |
 | **W1** | Introduction<br/><img src="https://github.com/haewoon/2021-22-Term1-Fairness-in-Socio-technical-Systems/blob/main/Week%201%20-%20Introduction.png?raw=true" width="480"> | [PDF](https://github.com/haewoon/2021-22-Term1-Fairness-in-Socio-technical-Systems/raw/main/Week%201%20-%20Introduction.pdf) | 1. [Colab - Twitter's image cropping algorithm](https://github.com/haewoon/lab-image-crop-analysis) <br/> 2. Algorithmic curations in your favorite apps |
@@ -21,3 +22,15 @@ Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
 | **W13** | Project presentation | | |
 | **W14** | Study week | | |
 | **W15** | Final exam | | |
+
+# (Optional) Reading list
+**W1: Introduction**
+- [Friedman, Batya, and Helen Nissenbaum. "Bias in computer systems." ACM Transactions on Information Systems (TOIS) 14.3 (1996): 330-347.](https://dl.acm.org/doi/10.1145/230538.230561)
+- [Amazon Changed Search Algorithm in Ways That Boost Its Own Products, WSJ, 2019](https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345)
+- [Else, Holly. "How to banish manels and manferences from scientific meetings." Nature 573.7773 (2019): 184-187.](https://www.nature.com/articles/d41586-019-02658-6)
+- [Speedy Neural Networks for Smart Auto-Cropping of Images, Twitter Engineering blog, 2018](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images)
+- [Sharing learnings about our image cropping algorithm, Twitter Engineering blog, 2021](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm)
+- [Facebook Apologizes After A.I. Puts ‘Primates’ Label on Video of Black Men, The New York Times, 2021](https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html)
+
+
+
