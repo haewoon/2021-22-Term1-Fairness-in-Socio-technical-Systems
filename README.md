@@ -92,7 +92,7 @@ A detailed registration process will be available on the library website.
 - (I) [Wade, Jess, and Maryam Zaringhalam. "Why we’re editing women scientists onto Wikipedia." Nature 14 (2018).](https://www.nature.com/articles/d41586-018-05947-8)
 - (A) [Sun, Jiao, and Nanyun Peng. "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia." Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2021.](https://aclanthology.org/2021.acl-short.45/)
 - (I) [Koenecke, Allison, et al. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences 117.14 (2020): 7684-7689.](https://www.pnas.org/content/117/14/7684)
-- (I) [An, Jisun, and Haewoon Kwak. "Gender and racial diversity in commercial brands’ advertising images on social media." International Conference on Social Informatics. Springer, Cham, 2019.](https://arxiv.org/abs/1908.01352)
+- (I) [Jisun An and Haewoon Kwak. "Gender and racial diversity in commercial brands’ advertising images on social media." International Conference on Social Informatics. Springer, Cham, 2019.](https://arxiv.org/abs/1908.01352)
 
 **W4: Auditing algorithms**
 - (R/I) [Sandvig, Christian, et al. "Auditing algorithms: Research methods for detecting discrimination on internet platforms." Data and discrimination: converting critical concerns into productive inquiry 22 (2014): 4349-4357.](https://social.cs.uiuc.edu/papers/pdfs/ICA2014-Sandvig.pdf)
@@ -108,3 +108,14 @@ A detailed registration process will be available on the library website.
 - (I) [On Orbitz, Mac Users Steered to Pricier Hotels, The Wall Street Journal](https://www.wsj.com/articles/SB10001424052702304458604577488822667325882)
 - (I) [YouTube Regrets, Mozilla Foundation, 2021](https://foundation.mozilla.org/en/campaigns/regrets-reporter/findings/)
 - (I) [Algorithms and Amplification: How Social Media Platforms’ Design Choices Shape Our Discourse and Our Minds, Subcommittee hearing (Fun to watch, 2:15:15~2:17:21)](https://www.judiciary.senate.gov/meetings/algorithms-and-amplification-how-social-media-platforms-design-choices-shape-our-discourse-and-our-minds)
+- (M) [Ribeiro, Manoel Horta, et al. "Auditing radicalization pathways on YouTube." Proceedings of the 2020 conference on fairness, accountability, and transparency. 2020.](https://arxiv.org/abs/1908.08313)
+
+**W5: Bias in data and machine learning models (I)**
+- (I) [Tversky, Amos, and Daniel Kahneman. "Judgment under uncertainty: Heuristics and biases." science 185.4157 (1974): 1124-1131.](https://www.science.org/doi/10.1126/science.185.4157.1124)
+- (I) [Want Less-Biased Decisions? Use Algorithms. Harvard Business Review, 2018](https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms)
+- (M) [Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231.](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full)
+- (R/A) [Barocas, Solon, and Andrew D. Selbst. "Big data's disparate impact." Calif. L. Rev. 104 (2016): 671. (Introduction and Chapter I)](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf)
+- (I) [Untold History of AI: Algorithmic Bias Was Born in the 1980s, IEEE Spectrum, 2019](https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias)
+- (I) [Bump App Detects Potholes, Alerts City Officials, Associated Press (YouTube)](https://www.youtube.com/watch?v=yxAYLA405pU)
+- (I) [A 'Forgotten History' Of How The U.S. Government Segregated America, NPR](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america)
+
