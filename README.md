@@ -1,8 +1,23 @@
 # 2021-22-Term1-Fairness-in-Socio-technical-Systems
 
-This repository is for archiving course materials for IS472: Fairness in Socio-technial Systems (2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
+This repository is for archiving course materials for IS457: Fairness in Socio-technial Systems (2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
 
 Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
+
+# Synopsis
+We interact with a variety of services and systems in our daily lives. While manual labors still take some part in those systems, some other parts become more and more automated by artificial intelligence (AI). In general, we might expect that those systems treat users fairly. If the system uses AI that is built on big data and complex algorithms, such expectation would be strengthened. Compared to human labor that might involve subjective decision-making, algorithmic systems are expected to objectively work and treat users fairly. However, in recent years, there are raising concerns about the potential harms of those systems, which are rooted in biases embedded in socio-technical systems. The inherent opaque nature of AI systems makes the problem worse.
+
+For example, YouTube recommends next videos when a video is finished playing. Those recommendations, on the one hand, are helpful to find interesting videos from a tremendous number of YouTube videos, but on the other hand, it is often unclear how or why the video is recommended. What happens if some biases exist in the recommendation algorithm, such as favoring videos with a specific (political) view? No matter whether those biases are intentional or unintentional, users would be exposed to a certain set of videos and are likely to be influenced by them.  
+
+YouTube is only one out of many examples because AI systems are becoming pervasive these days. In various areas, including healthcare, hiring, financial service, ads, policymaking, and internet services, AI systems are actively used. Thus, it is crucial to ensure that those systems are working fairly without any potential biases. It might be overlooked that the biases are embedded not only in the AI systems but also in established processes or human operators within the systems.
+
+The goal of this course is to provide students with an extensive understanding of diverse concepts of fairness and bias in socio-technical systems through examples across diverse domains, from healthcare to internet search. Then, students will learn how to audit practical systems in terms of fairness and bias through recent case studies. The course also aims to understand public concerns related to AI systems and help students to deeply think about ethical AI within multiple social contexts.
+
+
+# Prerequisite
+- IS111 Intro to Programming / CS101 Programming Fundamentals
+- IS217 Analytics Foundations / MGMT108 Intro to Business Analytics / CS105 Statistical Thinking for Data Science
+
 
 # Topics to be Covered
 | Week | Description | Slides | Group activity |
@@ -23,30 +38,40 @@ Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
 | **W14** | Study week | | |
 | **W15** | Final exam | | |
 
-# (Optional🙏) Reading list
+# (!Optional!🙏) References
+Reading is completely **optional**. The main findings of the below papers are summarized during the lecture.   
+If you are interested in more, please check the papers. 
+
+For your convenience, I mark reading materials as one of three levels: I (Introductory), M (interMediate), and A (Advanced).  
+- I: Introductory materials are typically news articles, YouTube videos, or technical blog articles that are easy to follow.  They introduce a new concept or a case for those who are not familiar with this domain. 
+- M: Intermediate materials are typically research papers but (I guess) most of the students can understand without much difficulties. 
+- A: Advanced materials are research papers that I can recommend you reading introduction and discussion. Some are theory-driven, some others use many jargons (e.g., medical or legal terms), etc. It would be great if you can understand a whole, but it might not be easy for junior undergrads.
+
+And some materials are marked as R (recommended). 
+
 **W1: Introduction**
-- [Friedman, Batya, and Helen Nissenbaum. "Bias in computer systems." ACM Transactions on Information Systems (TOIS) 14.3 (1996): 330-347.](https://dl.acm.org/doi/10.1145/230538.230561)
-- [Amazon Changed Search Algorithm in Ways That Boost Its Own Products, WSJ, 2019](https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345)
-- [Else, Holly. "How to banish manels and manferences from scientific meetings." Nature 573.7773 (2019): 184-187.](https://www.nature.com/articles/d41586-019-02658-6)
-- [Speedy Neural Networks for Smart Auto-Cropping of Images, Twitter Engineering blog, 2018](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images)
-- [Sharing learnings about our image cropping algorithm, Twitter Engineering blog, 2021](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm)
-- [Facebook Apologizes After A.I. Puts ‘Primates’ Label on Video of Black Men, The New York Times, 2021](https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html)
+- (I) [Friedman, Batya, and Helen Nissenbaum. "Bias in computer systems." ACM Transactions on Information Systems (TOIS) 14.3 (1996): 330-347.](https://dl.acm.org/doi/10.1145/230538.230561)
+- (R/I) [Amazon Changed Search Algorithm in Ways That Boost Its Own Products, WSJ, 2019](https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345)
+- (I) [Else, Holly. "How to banish manels and manferences from scientific meetings." Nature 573.7773 (2019): 184-187.](https://www.nature.com/articles/d41586-019-02658-6)
+- (I) [Speedy Neural Networks for Smart Auto-Cropping of Images, Twitter Engineering blog, 2018](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images)
+- (R/I) [Sharing learnings about our image cropping algorithm, Twitter Engineering blog, 2021](https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm)
+- (I) [Facebook Apologizes After A.I. Puts ‘Primates’ Label on Video of Black Men, The New York Times, 2021](https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html)
 
 **W2: Case studies of measuring fairness and biase (I) - Healthcare, Criminal system**
-- [Price, I. I., and W. Nicholson. "Medical AI and contextual bias." (2019).](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3347890)
-- [IDx-DR - How It Works, IDx (YouTube)](https://www.youtube.com/watch?v=dWiF8THxf7Q)
-- [Cirillo, Davide, et al. "Sex and gender differences and biases in artificial intelligence for biomedicine and healthcare." NPJ digital medicine 3.1 (2020): 1-11.](https://www.nature.com/articles/s41746-020-0288-5)
-- [Martin, Lisa A., Harold W. Neighbors, and Derek M. Griffith. "The experience of symptoms of depression in men vs women: analysis of the National Comorbidity Survey Replication." JAMA psychiatry 70.10 (2013): 1100-1106.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1733742)
-- [Feiner, John R., John W. Severinghaus, and Philip E. Bickler. "Dark skin decreases the accuracy of pulse oximeters at low oxygen saturation: the effects of oximeter probe type and gender." Anesthesia & Analgesia 105.6 (2007): S18-S23.](https://pubmed.ncbi.nlm.nih.gov/18048893/)
-- [Obermeyer, Ziad, et al. "Dissecting racial bias in an algorithm used to manage the health of populations." Science 366.6464 (2019): 447-453.](https://www.science.org/doi/10.1126/science.aax2342)
-- [Larrazabal, Agostina J., et al. "Gender imbalance in medical imaging datasets produces biased classifiers for computer-aided diagnosis." Proceedings of the National Academy of Sciences 117.23 (2020): 12592-12594.](https://www.pnas.org/content/117/23/12592)
-- [Machine Bias, ProPublica, 2016](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-- [How predictive policing software works, The Verge, 2016 (YouTube)](https://www.youtube.com/watch?v=YxvyeaL7NEM)
-- [Lum, Kristian, and William Isaac. "To predict and serve?." Significance 13.5 (2016): 14-19.](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x)
+- (M) [Price, I. I., and W. Nicholson. "Medical AI and contextual bias." (2019).](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3347890)
+- (R/I) [IDx-DR - How It Works, IDx (YouTube)](https://www.youtube.com/watch?v=dWiF8THxf7Q)
+- (M) [Cirillo, Davide, et al. "Sex and gender differences and biases in artificial intelligence for biomedicine and healthcare." NPJ digital medicine 3.1 (2020): 1-11.](https://www.nature.com/articles/s41746-020-0288-5)
+- (A) [Martin, Lisa A., Harold W. Neighbors, and Derek M. Griffith. "The experience of symptoms of depression in men vs women: analysis of the National Comorbidity Survey Replication." JAMA psychiatry 70.10 (2013): 1100-1106.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1733742)
+- (A) [Feiner, John R., John W. Severinghaus, and Philip E. Bickler. "Dark skin decreases the accuracy of pulse oximeters at low oxygen saturation: the effects of oximeter probe type and gender." Anesthesia & Analgesia 105.6 (2007): S18-S23.](https://pubmed.ncbi.nlm.nih.gov/18048893/)
+- (R/I) [Obermeyer, Ziad, et al. "Dissecting racial bias in an algorithm used to manage the health of populations." Science 366.6464 (2019): 447-453.](https://www.science.org/doi/10.1126/science.aax2342)
+- (A) [Larrazabal, Agostina J., et al. "Gender imbalance in medical imaging datasets produces biased classifiers for computer-aided diagnosis." Proceedings of the National Academy of Sciences 117.23 (2020): 12592-12594.](https://www.pnas.org/content/117/23/12592)
+- (I) [Machine Bias, ProPublica, 2016](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- (R/I) [How predictive policing software works, The Verge, 2016 (YouTube)](https://www.youtube.com/watch?v=YxvyeaL7NEM)
+- (I) [Lum, Kristian, and William Isaac. "To predict and serve?." Significance 13.5 (2016): 14-19.](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x)
 
-**W2: Case studies of measuring fairness and biase (II) - Hiring, Urban mobility, Immigration system, Web search, Wikipedia**
+**W3: Case studies of measuring fairness and biase (II) - Hiring, Urban mobility, Immigration system, Web search, Wikipedia**
 - [Peng, Andi, et al. "What you see is what you get? the impact of representation criteria on human bias in hiring." Proceedings of the AAAI Conference on Human Computation and Crowdsourcing. Vol. 7. No. 1. 2019.](https://ojs.aaai.org/index.php/HCOMP/article/view/5281)
-- [Amazon scraps secret AI recruiting tool that showed bias against women, Reuters, 2018](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
+- (Recommended) [Amazon scraps secret AI recruiting tool that showed bias against women, Reuters, 2018](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
 - [Lambrecht, Anja, and Catherine Tucker. "Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads." Management science 65.7 (2019): 2966-2981.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3093)
 - [We tried the AI software companies like Goldman Sachs and Unilever use to analyze job applicants, Business Insider, 2017 (YouTube)](https://www.youtube.com/watch?v=QfuGRCmXmCs)
 - [A face-scanning algorithm increasingly decides whether you deserve the job, The Washington Post, 2019](https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/)
@@ -65,3 +90,5 @@ Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
 - [Sun, Jiao, and Nanyun Peng. "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia." Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2021.](https://aclanthology.org/2021.acl-short.45/)
 - [Koenecke, Allison, et al. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences 117.14 (2020): 7684-7689.](https://www.pnas.org/content/117/14/7684)
 - [An, Jisun, and Haewoon Kwak. "Gender and racial diversity in commercial brands’ advertising images on social media." International Conference on Social Informatics. Springer, Cham, 2019.](https://arxiv.org/abs/1908.01352)
+
+**W4: Auditing algorithms**
