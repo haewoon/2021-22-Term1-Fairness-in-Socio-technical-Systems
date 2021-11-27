@@ -14,9 +14,11 @@ YouTube is only one out of many examples because AI systems are becoming pervasi
 The goal of this course is to provide students with an extensive understanding of diverse concepts of fairness and bias in socio-technical systems through examples across diverse domains, from healthcare to internet search. Then, students will learn how to audit practical systems in terms of fairness and bias through recent case studies. The course also aims to understand public concerns related to AI systems and help students to deeply think about ethical AI within multiple social contexts.
 
 
+
 # Prerequisite
 - IS111 Intro to Programming / CS101 Programming Fundamentals
 - IS217 Analytics Foundations / MGMT108 Intro to Business Analytics / CS105 Statistical Thinking for Data Science
+
 
 
 # Topics to be Covered
@@ -37,6 +39,8 @@ The goal of this course is to provide students with an extensive understanding o
 | **W13** | Project presentation | | |
 | **W14** | Study week | | |
 | **W15** | Final exam | | |
+
+
 
 # (!Optional!🙏) References
 Reading is completely **optional**. The main findings of the below papers are summarized during the lecture.   
@@ -118,4 +122,44 @@ A detailed registration process will be available on the library website.
 - (I) [Untold History of AI: Algorithmic Bias Was Born in the 1980s, IEEE Spectrum, 2019](https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias)
 - (I) [Bump App Detects Potholes, Alerts City Officials, Associated Press (YouTube)](https://www.youtube.com/watch?v=yxAYLA405pU)
 - (I) [A 'Forgotten History' Of How The U.S. Government Segregated America, NPR](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america)
+
+**W9: Bias in data and machine learning models (II)**
+- (I) [The data that transformed AI research—and possibly the world, Quartz, 2017](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
+- (R/I) [Yang, Kaiyu, et al. "Towards fairer datasets: Filtering and balancing the distribution of the people subtree in the imagenet hierarchy." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/abs/10.1145/3351095.3375709)
+- (I) [The viral selfie app ImageNet Roulette seemed fun – until it called me a racist slur, The Guardian, 2019](https://www.theguardian.com/technology/2019/sep/17/imagenet-roulette-asian-racist-slur-selfie)
+- (M) [Caliskan, Aylin, Joanna J. Bryson, and Arvind Narayanan. "Semantics derived automatically from language corpora contain human-like biases." Science 356.6334 (2017): 183-186.](https://www.science.org/doi/10.1126/science.aal4230)
+- (I) [A robot wrote this entire article. Are you scared yet, human?, The Guardian, 2020](https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3)
+- (A) [Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013).](https://arxiv.org/abs/1301.3781)
+- (A) [Bolukbasi, Tolga, et al. "Man is to computer programmer as woman is to homemaker? debiasing word embeddings." Advances in neural information processing systems 29 (2016): 4349-4357.](https://papers.nips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)
+- (R/M) [Kiritchenko, Svetlana, and Saif Mohammad. "Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems." Proceedings of the Seventh Joint Conference on Lexical and Computational Semantics. 2018.](https://aclanthology.org/S18-2005/)
+- (M) [Prabhu, Vinay Uday, and Abeba Birhane. "Large image datasets: A pyrrhic win for computer vision?." arXiv preprint arXiv:2006.16923 (2020).](https://arxiv.org/abs/2006.16923)
+
+**W10: Interpretability of algorithmic systems**
+- (M) [Miller, Tim. "Explanation in artificial intelligence: Insights from the social sciences." Artificial intelligence 267 (2019): 1-38.](https://www.sciencedirect.com/science/article/pii/S0004370218305988)
+- (I) [Goodman, Bryce, and Seth Flaxman. "European Union regulations on algorithmic decision-making and a “right to explanation”." AI magazine 38.3 (2017): 50-57.](https://ojs.aaai.org/index.php/aimagazine/article/view/2741)
+- (R/I) [Lipton, Zachary C. "The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery." Queue 16.3 (2018): 31-57.](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
+- (M) [Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.](https://dl.acm.org/doi/abs/10.1145/2939672.2939778)
+- (A) [Lundberg, Scott M., et al. "From local explanations to global understanding with explainable AI for trees." Nature machine intelligence 2.1 (2020): 56-67.](https://www.nature.com/articles/s42256-019-0138-9)
+- (M) [Babic, Boris, et al. "Beware explanations from AI in health care." Science 373.6552 (2021): 284-286.](https://www.science.org/doi/abs/10.1126/science.abg1834)
+- (A) [Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." Harv. JL & Tech. 31 (2017): 841.](https://arxiv.org/pdf/1711.00399.pdf)
+- (M) [Lage, Isaac, et al. "Human evaluation of models built for interpretability." Proceedings of the AAAI Conference on Human Computation and Crowdsourcing. Vol. 7. No. 1. 2019.](https://ojs.aaai.org/index.php/HCOMP/article/download/5280/5132/8381)
+
+**W11: Fairness mechanisms**
+- (R/A) [Barocas, Solon, and Andrew D. Selbst. "Big data's disparate impact." Calif. L. Rev. 104 (2016): 671. (Chapter II)](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf)
+- (M) [Mitchell, Margaret, et al. "Model cards for model reporting." Proceedings of the conference on fairness, accountability, and transparency. 2019.](https://arxiv.org/abs/1810.03993)
+- (M) [Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane, "Big Data and Social Science: Data Science Methods and Tools for Research and Practice" (Chapter 11)](https://textbook.coleridgeinitiative.org/chap-bias.html)
+
+**W12: HCI perspective of fairness**
+- (I) [Burrell, Jenna, et al. "When users control the algorithms: values expressed in practices on twitter." Proceedings of the ACM on Human-Computer Interaction 3.CSCW (2019): 1-20.](https://dl.acm.org/doi/10.1145/3359240)
+- (I) [Saha, Debjani, et al. "Measuring non-expert comprehension of machine learning fairness metrics." International Conference on Machine Learning. PMLR, 2020.](http://proceedings.mlr.press/v119/saha20c/saha20c.pdf)
+- (I) [Srivastava, Megha, Hoda Heidari, and Andreas Krause. "Mathematical notions vs. human perception of fairness: A descriptive approach to fairness for machine learning." Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.](https://dl.acm.org/doi/10.1145/3292500.3330664)
+- (M) [Dodge, Jonathan, et al. "Explaining models: an empirical study of how explanations impact fairness judgment." Proceedings of the 24th international conference on intelligent user interfaces. 2019.](https://arxiv.org/abs/1901.07694)
+
+**WX: Re-imagning fairness**
+- (M) [Parolin, Zachary, and Emma K. Lee. "Large socio-economic, geographic and demographic disparities exist in exposure to school closures." Nature human behaviour 5.4 (2021): 522-528.](https://www.nature.com/articles/s41562-021-01087-8)
+- (R/I) [Sambasivan, Nithya, et al. "Re-imagining algorithmic fairness in india and beyond." Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. 2021.](https://dl.acm.org/doi/10.1145/3442188.3445896)
+- (M) [Krafft, P. M., et al. "Defining AI in policy versus practice." Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society. 2020.](https://dl.acm.org/doi/10.1145/3375627.3375835)
+- (I) [Kalluri, Pratyusha. "Don't ask if artificial intelligence is good or fair, ask how it shifts power." Nature 583.7815 (2020): 169-169.](https://www.nature.com/articles/d41586-020-02003-2)
+- (M) [Responses to Critiques on Machine Learning of Criminality Perceptions (Addendum of arXiv:1611.04135)](https://arxiv.org/abs/1611.04135)
+
 
