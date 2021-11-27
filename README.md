@@ -154,6 +154,8 @@ A detailed registration process will be available on the library website.
 - (I) [Saha, Debjani, et al. "Measuring non-expert comprehension of machine learning fairness metrics." International Conference on Machine Learning. PMLR, 2020.](http://proceedings.mlr.press/v119/saha20c/saha20c.pdf)
 - (I) [Srivastava, Megha, Hoda Heidari, and Andreas Krause. "Mathematical notions vs. human perception of fairness: A descriptive approach to fairness for machine learning." Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.](https://dl.acm.org/doi/10.1145/3292500.3330664)
 - (M) [Dodge, Jonathan, et al. "Explaining models: an empirical study of how explanations impact fairness judgment." Proceedings of the 24th international conference on intelligent user interfaces. 2019.](https://arxiv.org/abs/1901.07694)
+- (M) [Lee, Michelle Seng Ah, and Jat Singh. "The landscape and gaps in open source fairness toolkits." Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. 2021.](https://dl.acm.org/doi/10.1145/3411764.3445261)
+- (M) [Veale, Michael, Max Van Kleek, and Reuben Binns. "Fairness and accountability design needs for algorithmic support in high-stakes public sector decision-making." Proceedings of the 2018 chi conference on human factors in computing systems. 2018.](https://dl.acm.org/doi/10.1145/3173574.3174014)
 
 **WX: Re-imagning fairness**
 - (M) [Parolin, Zachary, and Emma K. Lee. "Large socio-economic, geographic and demographic disparities exist in exposure to school closures." Nature human behaviour 5.4 (2021): 522-528.](https://www.nature.com/articles/s41562-021-01087-8)
@@ -161,5 +163,5 @@ A detailed registration process will be available on the library website.
 - (M) [Krafft, P. M., et al. "Defining AI in policy versus practice." Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society. 2020.](https://dl.acm.org/doi/10.1145/3375627.3375835)
 - (I) [Kalluri, Pratyusha. "Don't ask if artificial intelligence is good or fair, ask how it shifts power." Nature 583.7815 (2020): 169-169.](https://www.nature.com/articles/d41586-020-02003-2)
 - (M) [Responses to Critiques on Machine Learning of Criminality Perceptions (Addendum of arXiv:1611.04135)](https://arxiv.org/abs/1611.04135)
-
-
+- (M) [Horvitz, Eric, and Deirdre Mulligan. "Data, privacy, and the greater good." Science 349.6245 (2015): 253-255.](https://www.science.org/doi/10.1126/science.aac4520)
+- (M) [Green, Ben. "Good” isn’t good enough." Proceedings of the AI for Social Good workshop at NeurIPS. 2019.](http://ai.ethicsworkshop.org/Library/LibContentAcademic/GoodNotGoodEnough.pdf)
