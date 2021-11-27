@@ -45,7 +45,7 @@ If you are interested in more, please check the papers.
 For your convenience, I mark reading materials as one of three levels: I (Introductory), M (interMediate), and A (Advanced).  
 - I: Introductory materials are typically news articles, YouTube videos, or technical blog articles that are easy to follow.  They introduce a new concept or a case for those who are not familiar with this domain. 
 - M: Intermediate materials are typically research papers but (I guess) most of the students can understand without much difficulties. 
-- A: Advanced materials are research papers that I can recommend you reading introduction and discussion. Some are theory-driven, some others use many jargons (e.g., medical or legal terms), etc. It would be great if you can understand a whole, but it might not be easy for junior undergrads.
+- A: Advanced materials are research papers that I can recommend you reading introduction and discussion. For example, papers that are theory-drive, use many jargons (e.g., medical or legal terms), are based on some advanced concepts (language models), fall in this category. It would be great if you can understand a whole, but it might not be easy for junior undergrads.
 
 And some materials are marked as R (recommended). 
 
@@ -70,25 +70,25 @@ And some materials are marked as R (recommended).
 - (I) [Lum, Kristian, and William Isaac. "To predict and serve?." Significance 13.5 (2016): 14-19.](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x)
 
 **W3: Case studies of measuring fairness and biase (II) - Hiring, Urban mobility, Immigration system, Web search, Wikipedia**
-- [Peng, Andi, et al. "What you see is what you get? the impact of representation criteria on human bias in hiring." Proceedings of the AAAI Conference on Human Computation and Crowdsourcing. Vol. 7. No. 1. 2019.](https://ojs.aaai.org/index.php/HCOMP/article/view/5281)
-- (Recommended) [Amazon scraps secret AI recruiting tool that showed bias against women, Reuters, 2018](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
-- [Lambrecht, Anja, and Catherine Tucker. "Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads." Management science 65.7 (2019): 2966-2981.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3093)
-- [We tried the AI software companies like Goldman Sachs and Unilever use to analyze job applicants, Business Insider, 2017 (YouTube)](https://www.youtube.com/watch?v=QfuGRCmXmCs)
-- [A face-scanning algorithm increasingly decides whether you deserve the job, The Washington Post, 2019](https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/)
-- [Heaven, Douglas. "Why Faces Don't Always Tell the Truth About Feelings." Nature 578.7796 (2020): 502-504.](https://www.nature.com/articles/d41586-020-00507-5)
-- [Buolamwini, Joy, and Timnit Gebru. "Gender shades: Intersectional accuracy disparities in commercial gender classification." Conference on fairness, accountability and transparency. PMLR, 2018.](http://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline)
-- [Hutchinson, Ben, et al. "Social Biases in NLP Models as Barriers for Persons with Disabilities." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.](https://aclanthology.org/2020.acl-main.487/)
-- [Illinois says you should know if AI is grading your online job interviews, Vox, 2020](https://www.vox.com/recode/2020/1/1/21043000/artificial-intelligence-job-applications-illinios-video-interivew-act)
-- [Uber seems to offer better service in areas with more white people. That raises some tough questions. The Washington Post, 2016](https://www.washingtonpost.com/news/wonk/wp/2016/03/10/uber-seems-to-offer-better-service-in-areas-with-more-white-people-that-raises-some-tough-questions/)
-- [Ge, Yanbo, et al. Racial and gender discrimination in transportation network companies. No. w22776. National Bureau of Economic Research, 2016.](https://www.nber.org/papers/w22776)
-- [Amazon Doesn’t Consider the Race of Its Customers. Should It?, Bloomberg, 2016](https://www.bloomberg.com/graphics/2016-amazon-same-day/)
-- [We won! Home Office to stop using racist visa algorithm, JCWI, 2020](https://www.jcwi.org.uk/news/we-won-home-office-to-stop-using-racist-visa-algorithm)
-- ['Highly concerning': picture books bias worsens as female characters stay silent, The Guardian, 2019](https://www.theguardian.com/books/2019/jun/13/highly-concerning-picture-books-bias-worsens-as-female-characters-stay-silent)
-- [Kay, Matthew, Cynthia Matuszek, and Sean A. Munson. "Unequal representation and gender stereotypes in image search results for occupations." Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems. 2015.](https://dl.acm.org/doi/10.1145/2702123.2702520)
-- [Wagner, Claudia, et al. "It's a man's Wikipedia? Assessing gender inequality in an online encyclopedia." Ninth international AAAI conference on web and social media. 2015.](https://arxiv.org/abs/1501.06307)
-- [Wade, Jess, and Maryam Zaringhalam. "Why we’re editing women scientists onto Wikipedia." Nature 14 (2018).](https://www.nature.com/articles/d41586-018-05947-8)
-- [Sun, Jiao, and Nanyun Peng. "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia." Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2021.](https://aclanthology.org/2021.acl-short.45/)
-- [Koenecke, Allison, et al. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences 117.14 (2020): 7684-7689.](https://www.pnas.org/content/117/14/7684)
-- [An, Jisun, and Haewoon Kwak. "Gender and racial diversity in commercial brands’ advertising images on social media." International Conference on Social Informatics. Springer, Cham, 2019.](https://arxiv.org/abs/1908.01352)
+- (M) [Peng, Andi, et al. "What you see is what you get? the impact of representation criteria on human bias in hiring." Proceedings of the AAAI Conference on Human Computation and Crowdsourcing. Vol. 7. No. 1. 2019.](https://ojs.aaai.org/index.php/HCOMP/article/view/5281)
+- (R/I) [Amazon scraps secret AI recruiting tool that showed bias against women, Reuters, 2018](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
+- (M) [Lambrecht, Anja, and Catherine Tucker. "Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads." Management science 65.7 (2019): 2966-2981.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3093)
+- (R/I) [We tried the AI software companies like Goldman Sachs and Unilever use to analyze job applicants, Business Insider, 2017 (YouTube)](https://www.youtube.com/watch?v=QfuGRCmXmCs)
+- (I) [A face-scanning algorithm increasingly decides whether you deserve the job, The Washington Post, 2019](https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/)
+- (I) [Heaven, Douglas. "Why Faces Don't Always Tell the Truth About Feelings." Nature 578.7796 (2020): 502-504.](https://www.nature.com/articles/d41586-020-00507-5)
+- (I) [Buolamwini, Joy, and Timnit Gebru. "Gender shades: Intersectional accuracy disparities in commercial gender classification." Conference on fairness, accountability and transparency. PMLR, 2018.](http://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline)
+- (A) [Hutchinson, Ben, et al. "Social Biases in NLP Models as Barriers for Persons with Disabilities." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.](https://aclanthology.org/2020.acl-main.487/)
+- (I) [Illinois says you should know if AI is grading your online job interviews, Vox, 2020](https://www.vox.com/recode/2020/1/1/21043000/artificial-intelligence-job-applications-illinios-video-interivew-act)
+- (I) [Uber seems to offer better service in areas with more white people. That raises some tough questions. The Washington Post, 2016](https://www.washingtonpost.com/news/wonk/wp/2016/03/10/uber-seems-to-offer-better-service-in-areas-with-more-white-people-that-raises-some-tough-questions/)
+- (M) [Ge, Yanbo, et al. Racial and gender discrimination in transportation network companies. No. w22776. National Bureau of Economic Research, 2016.](https://www.nber.org/papers/w22776)
+- (I) [Amazon Doesn’t Consider the Race of Its Customers. Should It?, Bloomberg, 2016](https://www.bloomberg.com/graphics/2016-amazon-same-day/)
+- (I) [We won! Home Office to stop using racist visa algorithm, JCWI, 2020](https://www.jcwi.org.uk/news/we-won-home-office-to-stop-using-racist-visa-algorithm)
+- (R/I) ['Highly concerning': picture books bias worsens as female characters stay silent, The Guardian, 2019](https://www.theguardian.com/books/2019/jun/13/highly-concerning-picture-books-bias-worsens-as-female-characters-stay-silent)
+- (R/I) [Kay, Matthew, Cynthia Matuszek, and Sean A. Munson. "Unequal representation and gender stereotypes in image search results for occupations." Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems. 2015.](https://dl.acm.org/doi/10.1145/2702123.2702520)
+- (I) [Wagner, Claudia, et al. "It's a man's Wikipedia? Assessing gender inequality in an online encyclopedia." Ninth international AAAI conference on web and social media. 2015.](https://arxiv.org/abs/1501.06307)
+- (I) [Wade, Jess, and Maryam Zaringhalam. "Why we’re editing women scientists onto Wikipedia." Nature 14 (2018).](https://www.nature.com/articles/d41586-018-05947-8)
+- (A) [Sun, Jiao, and Nanyun Peng. "Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia." Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers). 2021.](https://aclanthology.org/2021.acl-short.45/)
+- (I) [Koenecke, Allison, et al. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences 117.14 (2020): 7684-7689.](https://www.pnas.org/content/117/14/7684)
+- (I) [An, Jisun, and Haewoon Kwak. "Gender and racial diversity in commercial brands’ advertising images on social media." International Conference on Social Informatics. Springer, Cham, 2019.](https://arxiv.org/abs/1908.01352)
 
 **W4: Auditing algorithms**
