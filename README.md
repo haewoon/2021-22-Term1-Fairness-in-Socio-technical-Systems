@@ -49,6 +49,9 @@ For your convenience, I mark reading materials as one of three levels: I (Introd
 
 And some materials are marked as R (recommended). 
 
+Note that SMU students can access to many news websites (e.g., The New York Times, Wall Street Journal, etc.) for free through the library website.  
+A detailed registration process will be available on the library website.
+
 **W1: Introduction**
 - (I) [Friedman, Batya, and Helen Nissenbaum. "Bias in computer systems." ACM Transactions on Information Systems (TOIS) 14.3 (1996): 330-347.](https://dl.acm.org/doi/10.1145/230538.230561)
 - (R/I) [Amazon Changed Search Algorithm in Ways That Boost Its Own Products, WSJ, 2019](https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345)
@@ -92,3 +95,11 @@ And some materials are marked as R (recommended).
 - (I) [An, Jisun, and Haewoon Kwak. "Gender and racial diversity in commercial brands’ advertising images on social media." International Conference on Social Informatics. Springer, Cham, 2019.](https://arxiv.org/abs/1908.01352)
 
 **W4: Auditing algorithms**
+- (R/I) [Sandvig, Christian, et al. "Auditing algorithms: Research methods for detecting discrimination on internet platforms." Data and discrimination: converting critical concerns into productive inquiry 22 (2014): 4349-4357.](https://social.cs.uiuc.edu/papers/pdfs/ICA2014-Sandvig.pdf)
+- (I) [Forget the Booze. The Mad Men's Best Friend Was SABRE, Wired, 2012](https://www.wired.com/2012/07/sabre/)
+- (A) ["The Legal and Regulatory Implications of Airline Computer Reservation Systems." Harvard Law Review 103, no. 8 (1990): 1930-950. Accessed August 8, 2021.](https://www.jstor.org/stable/1341325?origin=crossref)
+- (R/I) [Bertrand, Marianne, and Sendhil Mullainathan. "Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination." American economic review 94.4 (2004): 991-1013.](https://www.aeaweb.org/articles?id=10.1257/0002828042002561)
+- (A) [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
+- (M) [SMU’s Institutional Review Board](https://smu.sharepoint.com/sites/irb/)
+- (I) [Scholar Sets Off Gastronomic False Alarm, The New York Times, 2001](https://www.nytimes.com/2001/09/08/nyregion/scholar-sets-off-gastronomic-false-alarm.html)
+- (A) [Data Scraping Survives! (At Least for Now) Key Takeaways from 9th Circuit Ruling on the HIQ vs. Linkedin Case](https://www.natlawreview.com/article/data-scraping-survives-least-now-key-takeaways-9th-circuit-ruling-hiq-vs-linkedin)
