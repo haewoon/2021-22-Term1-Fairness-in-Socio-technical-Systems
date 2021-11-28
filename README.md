@@ -1,8 +1,8 @@
 # 2021-22-Term1-Fairness-in-Socio-technical-Systems
 
-This repository is for archiving course materials for IS457: Fairness in Socio-technial Systems (2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
+This repository is for archiving course materials for IS457: Fairness in Socio-technial Systems (AY2021-22 Term1), School of Computing and Information Systems, Singapore Management University.
 
-Instructor: [KWAK Haewoon](https://soda-labo.github.io/)
+Instructor: [Associate Professor. KWAK Haewoon](https://soda-labo.github.io/) [(@haewoon)](https://twitter.com/haewoon)
 
 # Synopsis
 We interact with a variety of services and systems in our daily lives. While manual labors still take some part in those systems, some other parts become more and more automated by artificial intelligence (AI). In general, we might expect that those systems treat users fairly. If the system uses AI that is built on big data and complex algorithms, such expectation would be strengthened. Compared to human labor that might involve subjective decision-making, algorithmic systems are expected to objectively work and treat users fairly. However, in recent years, there are raising concerns about the potential harms of those systems, which are rooted in biases embedded in socio-technical systems. The inherent opaque nature of AI systems makes the problem worse.
